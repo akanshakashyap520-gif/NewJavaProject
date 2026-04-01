@@ -11,5 +11,6 @@ public class methods {
         System.out.println("I've Created my first method.");
         System.out.println("I've created my first loop.");
         System.out.println("I'm excited to learn Java.");
+        System.out.println("Find Changes");
     }
 }
